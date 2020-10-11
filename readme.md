@@ -17,9 +17,11 @@ __NOTE :__ Please install UPatchHD for the trainer to work correctly
 
 ## Screenshots
 
+![image0](https://github.com/gmastergreatee/AgeOfEmpiresTrainer/raw/master/images/img_0.png)
+
 ![image1](https://github.com/gmastergreatee/AgeOfEmpiresTrainer/raw/master/images/img_1.png)
 
-![image1](https://github.com/gmastergreatee/AgeOfEmpiresTrainer/raw/master/images/img_2.png)
+![image2](https://github.com/gmastergreatee/AgeOfEmpiresTrainer/raw/master/images/img_2.png)
 
 ## Credits
 
