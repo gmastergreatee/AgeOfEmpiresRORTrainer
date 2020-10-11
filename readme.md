@@ -1,4 +1,4 @@
-# Age Of Empires Expansion Trainer
+# Age Of Empires ROR Expansion Trainer
 
 __NOTE :__ Please install UPatchHD for the trainer to work correctly
 
