@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "C/C++: g++.exe build active file",
+            // "command": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe",
+            "command": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\g++.exe",
+            "args": [
+                "-Wno-write-strings",
+                "-Wno-conversion-null",
+				
+				"-I${workspaceFolder}\\header",
+
+                "-DUNICODE",
+                "-g",
+                "--static",
+                "-Os",
+				
+                "${workspaceFolder}\\*.cpp",
+				"${workspaceFolder}\\source\\*.cpp",
+				
+                "-o",
+                "${workspaceFolder}\\build\\aoe-cheat.exe"
+            ],
+            "options": {
+                // "cwd": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin"
+                "cwd": "C:\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin"
+            },
+            "problemMatcher": ["$gcc"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
