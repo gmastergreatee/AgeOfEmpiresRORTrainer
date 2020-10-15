@@ -2,6 +2,10 @@
 
 __NOTE :__ Please install UPatchHD for the trainer to work correctly
 
+## Release
+
+Download [here](https://github.com/gmastergreatee/AgeOfEmpiresRORTrainer/raw/master/build/aoe-cheat.exe)
+
 ## Features
 
 - Unlimited Wood
